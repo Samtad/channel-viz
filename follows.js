@@ -4,7 +4,7 @@
 	EXAMPLE CONFIGURATION
 
 		var defaultKey	= 'Ev6yywDQyHhURZcvETHFynZLbE9KRsssozyxVRZxJQp3tLZG', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [61916,12425,94322], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [547325321], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'My Company\'s Application', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
